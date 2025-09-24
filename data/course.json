@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "35ab47ea-b33a-2b4d-5000-bbd2f612cd26",
+  "instructors": {
+    "content": [
+      "555a0137-1a2d-7d0a-8274-1e6be0112025"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "64a9c191-dbc2-c2d3-49db-7f00f49cfcd2",
+    "website": "15-071-the-analytics-edge-spring-2017"
+  },
+  "course_title": "The Analytics Edge",
+  "course_description": "This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today's most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.071",
+  "course_image_thumbnail": {
+    "content": "259767fe-7f8c-e9ad-e74d-1f29372640ef",
+    "website": "15-071-the-analytics-edge-spring-2017"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "873cb5f7-73d0-4038-9c91-bcb0563e3722",
+  "site_short_id": "15.071-spring-2017",
+  "site_url_path": "courses/15-071-the-analytics-edge-spring-2017",
+  "title": "Course Metadata"
+}
