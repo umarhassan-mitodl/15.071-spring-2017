@@ -4,6 +4,8 @@ description: 'Image: '
 file: /courses/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg
 file_size: 51136
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

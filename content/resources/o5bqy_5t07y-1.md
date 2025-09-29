@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/ef48b8c6794b6ab00cab0734ad2a8885_o5bqy_5T07Y.pdf
 file_size: 10374
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

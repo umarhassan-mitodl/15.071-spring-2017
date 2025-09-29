@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://spreadsheets.about.com/od/otherspreadsheets/ss/080616_24_calc.htm
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: OpenOffice Tutorial

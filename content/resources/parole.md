@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/ee9b52a20d6ebf5944fb3da9171fa3e0_parole.csv
 file_size: 18533
 file_type: text/comma-separated-values
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

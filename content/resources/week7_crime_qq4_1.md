@@ -4,6 +4,8 @@ description: 'Image: '
 file: /courses/15-071-the-analytics-edge-spring-2017/bed89f26444014011197fb58867992c7_Week7_Crime_QQ4_1.png
 file_size: 44581
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

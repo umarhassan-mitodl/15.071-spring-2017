@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/20168d0dad9b53e072396f5168dc5290_baseball.csv
 file_size: 67157
 file_type: text/comma-separated-values
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

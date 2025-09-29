@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/3a73d6c0252da6435115cac4a473dc08_Unit3_Framingham.R
 file_size: 963
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

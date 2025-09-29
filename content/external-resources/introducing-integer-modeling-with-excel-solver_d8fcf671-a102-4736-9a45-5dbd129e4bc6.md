@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://pubsonline.informs.org/doi/pdf/10.1287/ited.7.1.88
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: Introducing Integer Modeling with Excel Solver

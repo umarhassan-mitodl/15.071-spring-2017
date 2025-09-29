@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://en.wikipedia.org/wiki/Gun_violence_in_the_United_States_by_state
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: in this Wikipedia entry about gun violence in the U.S. by state.

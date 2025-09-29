@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://spreadsheets.about.com/od/excel2007/ss/excel2007_forma.htm
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Microsoft Excel Tutorial

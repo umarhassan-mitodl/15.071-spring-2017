@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/689509df0b6105e6af7ea0b866825c45_wiki.csv
 file_size: 435355
 file_type: text/comma-separated-values
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

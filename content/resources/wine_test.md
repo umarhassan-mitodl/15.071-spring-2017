@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/fbf05b0e868bc87b4fbadac6fe406c30_wine_test.csv
 file_size: 130
 file_type: text/comma-separated-values
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: 'Image: '
 file: /courses/15-071-the-analytics-edge-spring-2017/6a88ce72b6c9709cc7bd95550e3cd349_Shapes.jpg
 file_size: 119176
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

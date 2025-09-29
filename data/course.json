@@ -30,6 +30,7 @@
     "website": "15-071-the-analytics-edge-spring-2017"
   },
   "course_title": "The Analytics Edge",
+  "hide_download": true,
   "course_description": "This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today's most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.\n",
   "department_numbers": [
     "15"
@@ -40,6 +41,7 @@
     "content": "259767fe-7f8c-e9ad-e74d-1f29372640ef",
     "website": "15-071-the-analytics-edge-spring-2017"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",

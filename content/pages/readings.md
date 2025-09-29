@@ -2,6 +2,8 @@
 content_type: page
 description: This section lists the readings assigned in the residential version of
   this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

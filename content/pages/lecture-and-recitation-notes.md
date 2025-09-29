@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the lecture slides that go along with the video
   content.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture and Recitation Notes

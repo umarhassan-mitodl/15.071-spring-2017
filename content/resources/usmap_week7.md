@@ -4,6 +4,8 @@ description: 'Image: '
 file: /courses/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg
 file_size: 125390
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

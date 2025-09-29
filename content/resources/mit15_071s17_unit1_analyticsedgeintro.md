@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/9e84c60ff05f5ad6c2be78008f392422_MIT15_071S17_Unit1_AnalyticsEdgeIntro.pdf
 file_size: 879375
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

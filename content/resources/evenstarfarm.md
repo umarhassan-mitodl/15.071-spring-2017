@@ -4,6 +4,8 @@ description: 'Resource:'
 file: /courses/15-071-the-analytics-edge-spring-2017/76d937c2e04ad2de53f9c971328b5f0e_EvenStarFarm.ods
 file_size: 12443
 file_type: application/vnd.oasis.opendocument.spreadsheet
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
