@@ -22,7 +22,7 @@ The file {{% resource_link "3b53e75d-1ddb-97bd-98f4-0ae5bbee2475" "climate\_chan
 
 - *Year*: the observation year.
 - *Month*: the observation month.
-- *Temp*: the difference in degrees Celsius between the average global temperature in that period and a reference value. This data comes from the [Climatic Research Unit at the University of East Anglia.](https://www.uea.ac.uk/groups-and-centres/climatic-research-unit)
+- *Temp*: the difference in degrees Celsius between the average global temperature in that period and a reference value. This data comes from the {{% resource_link "30531708-6120-4731-9206-1a97d3e85a85" "Climatic Research Unit at the University of East Anglia." %}}
 - *CO2*, *N2O*, *CH4*, *CFC.11*, *CFC.12*: atmospheric concentrations of carbon dioxide (CO2), nitrous oxide (N2O), methane  (CH4), trichlorofluoromethane (CCl3F; commonly referred to as CFC-11) and dichlorodifluoromethane (CCl2F2; commonly referred to as CFC-12), respectively. This data comes from the {{% resource_link "477b3f33-419b-4b25-942f-cdf3f852370f" "ESRL/NOAA Global Monitoring Division" %}}.
 - CO2, N2O and CH4 are expressed in ppmv (parts per million by volume  -- i.e., 397 ppmv of CO2 means that CO2 constitutes 397 millionths of the total volume of the atmosphere)
 - CFC.11 and CFC.12 are expressed in ppbv (parts per billion by volume). 

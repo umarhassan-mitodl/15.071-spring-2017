@@ -14,7 +14,7 @@ video_metadata:
 ---
 ## Video 2: Working with Data in R
 
-In this recitation, we'll be using the data {{% resource_link "15b9bfcb-9109-c3dc-dcd9-372740d5b7cb" "USDA (CSV)" %}}. Please download this dataset and save it to your computer in a location that you will remember. This data comes from the [USDA National Nutrient Database for Standard Reference.](https://agdatacommons.nal.usda.gov/)
+In this recitation, we'll be using the data {{% resource_link "15b9bfcb-9109-c3dc-dcd9-372740d5b7cb" "USDA (CSV)" %}}. Please download this dataset and save it to your computer in a location that you will remember. This data comes from the {{% resource_link "a1c78db8-bcb1-4a9d-8695-792fd5586159" "USDA National Nutrient Database for Standard Reference." %}}
 
 A script file with all of the R commands that will be used in this recitation can be downloaded here: {{% resource_link "15c14666-af82-15f8-a5cc-076653f6f408" "Unit1\_Recitation (R)" %}}.
 
